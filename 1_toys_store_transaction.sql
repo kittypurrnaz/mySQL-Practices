@@ -8,5 +8,5 @@ INSERT INTO transaction_history(purchased_item, customer_id) VALUES('Nintendo Sw
 
 COMMIT;
 
-
+-- my first beginner programming on mySQL
 -- SET autocommit = 1;
